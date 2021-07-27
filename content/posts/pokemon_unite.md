@@ -1,7 +1,9 @@
 ---
 title: "ポケモンUNITE モンスターPOP時間メモ"
 date: 2021-07-27T19:20:34+09:00
-draft: true
+draft: false
+tags:
+  - ポケモンUNITE
 ---
 
 ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。  
