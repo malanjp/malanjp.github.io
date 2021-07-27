@@ -1,4 +1,45 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on malan</title><link>https://malanjp.github.io/posts/</link><description>Recent content in Posts on malan</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><copyright>malan</copyright><lastBuildDate>Tue, 13 Jul 2021 12:32:52 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ITP についてまとめてみた 2021年7月</title><link>https://malanjp.github.io/posts/itp_2021_07_13/</link><pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate><guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid><description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description><content type="html"><![CDATA[<p>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。<br>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on malan</title><link>https://malanjp.github.io/posts/</link><description>Recent content in Posts on malan</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Tue, 27 Jul 2021 20:10:34 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>ポケモンUNITE モンスターPOP時間メモ</title><link>https://malanjp.github.io/posts/pokemon_unite/</link><pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate><guid>https://malanjp.github.io/posts/pokemon_unite/</guid><description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description><content type="html"><![CDATA[<p>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。<br>
+基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。<br>
+ルカリオやゲンガーを使っていると異常なスピードで削ることができる。<br>
+カジリガメを殴るときは総力戦になりがちなので、ビークイン戦で相手に経験値を渡さないように頑張っておく必要がある。<br>
+2回ともカジリガメを取られた場合はほぼ絶望で、サンダーを食ってワンチャン狙おうにもレベル差ができているのでだいたい失敗に終わる。</p>
+<table>
+<thead>
+<tr>
+<th>モンスター</th>
+<th>時間</th>
+<th>補足</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ヘイガニ</td>
+<td>9:00</td>
+<td>序盤の時間が余ってるときにちょろっとやっておく</td>
+</tr>
+<tr>
+<td>ビークイン回目</td>
+<td>8:50</td>
+<td>1分30秒ごとに復活</td>
+</tr>
+<tr>
+<td>カジリガメ</td>
+<td>7:00</td>
+<td>2分ごと復活</td>
+</tr>
+<tr>
+<td>ロトム</td>
+<td>7:00</td>
+<td>2分ごと復活</td>
+</tr>
+<tr>
+<td>サンダー</td>
+<td>2:00</td>
+<td>こいつが出たらカジリガメ・ロトムは出現しない</td>
+</tr>
+</tbody>
+</table>
+]]></content></item><item><title>ITP についてまとめてみた 2021年7月</title><link>https://malanjp.github.io/posts/itp_2021_07_13/</link><pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate><guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid><description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description><content type="html"><![CDATA[<p>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。<br>
 ということでざっとまとめてみた。<br>
 まだ一部モヤっとしている状態で書きなぐっているので間違いなどあれば指摘してほしい。</p>
 <h2 id="itp-のいままで">ITP のいままで</h2>
