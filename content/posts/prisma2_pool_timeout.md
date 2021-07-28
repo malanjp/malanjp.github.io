@@ -5,7 +5,6 @@ draft: false
 toc: false
 images:
 tags: 
-  - untagged
   - Prisma2
   - RDB
   - PostgreSQL
