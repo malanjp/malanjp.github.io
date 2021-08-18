@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://malanjp.github.io/sitemap.xml

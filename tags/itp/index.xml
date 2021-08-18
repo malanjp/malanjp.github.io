@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ITP on malan</title><link>https://malanjp.github.io/tags/itp/</link><description>Recent content in ITP on malan</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Tue, 13 Jul 2021 12:32:52 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/itp/index.xml" rel="self" type="application/rss+xml"/><item><title>ITP についてまとめてみた 2021年7月</title><link>https://malanjp.github.io/posts/itp_2021_07_13/</link><pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate><guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid><description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ITP on Malan</title>
+    <link>https://malanjp.github.io/tags/itp/</link>
+    <description>Recent content in ITP on Malan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 13 Jul 2021 12:32:52 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/itp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ITP についてまとめてみた 2021年7月</title>
+      <link>https://malanjp.github.io/posts/itp_2021_07_13/</link>
+      <pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid>
+      <description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description>
+    </item>
+    
+  </channel>
+</rss>

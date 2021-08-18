@@ -1,1 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>malan</title><link>https://malanjp.github.io/</link><description>Recent content on malan</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Wed, 28 Jul 2021 15:10:01 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Prisma2 + Promise.all() とかやるとコネクション数制限に引っかかってエラーになる件</title><link>https://malanjp.github.io/posts/prisma2_pool_timeout/</link><pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate><guid>https://malanjp.github.io/posts/prisma2_pool_timeout/</guid><description>RDB に Prisma2 を用いてクエリを投げるのはよくやると思うんですが、Promise.all() とかして物凄い勢いで非同期実行するとこんなエラーが出がち。</description></item><item><title>ポケモンUNITE モンスターPOP時間メモ</title><link>https://malanjp.github.io/posts/pokemon_unite/</link><pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate><guid>https://malanjp.github.io/posts/pokemon_unite/</guid><description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description></item><item><title>ITP についてまとめてみた 2021年7月</title><link>https://malanjp.github.io/posts/itp_2021_07_13/</link><pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate><guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid><description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description></item><item><title>First_post</title><link>https://malanjp.github.io/posts/first_post/</link><pubDate>Sat, 29 May 2021 19:23:00 +0900</pubDate><guid>https://malanjp.github.io/posts/first_post/</guid><description>hoge</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Malan</title>
+    <link>https://malanjp.github.io/</link>
+    <description>Recent content on Malan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 18 Aug 2021 22:22:25 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo のテーマを変えてみた</title>
+      <link>https://malanjp.github.io/posts/using_new_theme/</link>
+      <pubDate>Wed, 18 Aug 2021 22:22:25 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/using_new_theme/</guid>
+      <description>以前使っていた Hermit っていうテーマは2年以上まともに更新されてないらしくて非推奨になってることに気づいてしまった。 確かにちょいちょい変な動作して</description>
+    </item>
+    
+    <item>
+      <title>Prisma2 &#43; Promise.all() とかやるとコネクション数制限に引っかかってエラーになる件</title>
+      <link>https://malanjp.github.io/posts/prisma2_pool_timeout/</link>
+      <pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/prisma2_pool_timeout/</guid>
+      <description>RDB に Prisma2 を用いてクエリを投げるのはよくやると思うんですが、Promise.all() とかして物凄い勢いで非同期実行するとこんなエラーが出がち。</description>
+    </item>
+    
+    <item>
+      <title>ポケモンUNITE モンスターPOP時間メモ</title>
+      <link>https://malanjp.github.io/posts/pokemon_unite/</link>
+      <pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/pokemon_unite/</guid>
+      <description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description>
+    </item>
+    
+    <item>
+      <title>ITP についてまとめてみた 2021年7月</title>
+      <link>https://malanjp.github.io/posts/itp_2021_07_13/</link>
+      <pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid>
+      <description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description>
+    </item>
+    
+    <item>
+      <title>First_post</title>
+      <link>https://malanjp.github.io/posts/first_post/</link>
+      <pubDate>Sat, 29 May 2021 19:23:00 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/first_post/</guid>
+      <description>hoge</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

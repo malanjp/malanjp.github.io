@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ポケモンUNITE on malan</title><link>https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/</link><description>Recent content in ポケモンUNITE on malan</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Tue, 27 Jul 2021 20:10:34 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/index.xml" rel="self" type="application/rss+xml"/><item><title>ポケモンUNITE モンスターPOP時間メモ</title><link>https://malanjp.github.io/posts/pokemon_unite/</link><pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate><guid>https://malanjp.github.io/posts/pokemon_unite/</guid><description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ポケモンUNITE on Malan</title>
+    <link>https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/</link>
+    <description>Recent content in ポケモンUNITE on Malan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 27 Jul 2021 20:10:34 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ポケモンUNITE モンスターPOP時間メモ</title>
+      <link>https://malanjp.github.io/posts/pokemon_unite/</link>
+      <pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/pokemon_unite/</guid>
+      <description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description>
+    </item>
+    
+  </channel>
+</rss>
