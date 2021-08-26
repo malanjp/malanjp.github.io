@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Malan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 18 Aug 2021 22:22:25 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 16:59:39 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tmux を update したら起動しなくなった</title>
+      <link>https://malanjp.github.io/posts/tmux_error/</link>
+      <pubDate>Thu, 26 Aug 2021 16:59:39 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/posts/tmux_error/</guid>
+      <description>何も考えずに brew upgrade で tmux のバージョンを上げたんだけど、起動しなくなってしまった。 古い tmux server(session) が起動したままだったのが原因のよう。 下記のように tmux server を殺</description>
+    </item>
+    
     <item>
       <title>Hugo のテーマを変えてみた</title>
       <link>https://malanjp.github.io/posts/using_new_theme/</link>

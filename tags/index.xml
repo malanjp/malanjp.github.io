@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Malan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 28 Jul 2021 15:10:01 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 16:59:39 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tmux</title>
+      <link>https://malanjp.github.io/tags/tmux/</link>
+      <pubDate>Thu, 26 Aug 2021 16:59:39 +0900</pubDate>
+      
+      <guid>https://malanjp.github.io/tags/tmux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>PostgreSQL</title>
       <link>https://malanjp.github.io/tags/postgresql/</link>
