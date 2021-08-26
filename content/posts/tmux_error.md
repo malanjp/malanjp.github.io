@@ -2,7 +2,7 @@
 title: "tmux を update したら起動しなくなった"
 date: 2021-08-26T16:59:39+09:00
 tags: [tmux]
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
