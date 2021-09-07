@@ -5,61 +5,6 @@
     <link>https://malanjp.github.io/tags/</link>
     <description>Recent content in Tags on Malan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Thu, 26 Aug 2021 16:59:39 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tmux</title>
-      <link>https://malanjp.github.io/tags/tmux/</link>
-      <pubDate>Thu, 26 Aug 2021 16:59:39 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/tmux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PostgreSQL</title>
-      <link>https://malanjp.github.io/tags/postgresql/</link>
-      <pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prisma2</title>
-      <link>https://malanjp.github.io/tags/prisma2/</link>
-      <pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/prisma2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RDB</title>
-      <link>https://malanjp.github.io/tags/rdb/</link>
-      <pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/rdb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ポケモンUNITE</title>
-      <link>https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/</link>
-      <pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3unite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ITP</title>
-      <link>https://malanjp.github.io/tags/itp/</link>
-      <pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/tags/itp/</guid>
-      <description></description>
-    </item>
-    
+    <language>ja-jp</language><atom:link href="https://malanjp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

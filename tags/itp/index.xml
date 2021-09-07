@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ITP on Malan</title>
+    <title>ITP on malan</title>
     <link>https://malanjp.github.io/tags/itp/</link>
-    <description>Recent content in ITP on Malan</description>
+    <description>Recent content in ITP on malan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 13 Jul 2021 12:32:52 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/tags/itp/index.xml" rel="self" type="application/rss+xml" />

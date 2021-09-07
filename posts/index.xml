@@ -1,65 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on Malan</title>
-    <link>https://malanjp.github.io/posts/</link>
-    <description>Recent content in Posts on Malan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Thu, 26 Aug 2021 16:59:39 +0900</lastBuildDate><atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tmux を update したら起動しなくなった</title>
-      <link>https://malanjp.github.io/posts/tmux_error/</link>
-      <pubDate>Thu, 26 Aug 2021 16:59:39 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/tmux_error/</guid>
-      <description>何も考えずに brew upgrade で tmux のバージョンを上げたんだけど、起動しなくなってしまった。 古い tmux server(session) が起動したままだったのが原因のよう。 下記のように tmux server を殺</description>
-    </item>
-    
-    <item>
-      <title>Hugo のテーマを変えてみた</title>
-      <link>https://malanjp.github.io/posts/using_new_theme/</link>
-      <pubDate>Wed, 18 Aug 2021 22:22:25 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/using_new_theme/</guid>
-      <description>以前使っていた Hermit っていうテーマは2年以上まともに更新されてないらしくて非推奨になってることに気づいてしまった。 確かにちょいちょい変な動作して</description>
-    </item>
-    
-    <item>
-      <title>Prisma2 &#43; Promise.all() とかやるとコネクション数制限に引っかかってエラーになる件</title>
-      <link>https://malanjp.github.io/posts/prisma2_pool_timeout/</link>
-      <pubDate>Wed, 28 Jul 2021 15:10:01 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/prisma2_pool_timeout/</guid>
-      <description>RDB に Prisma2 を用いてクエリを投げるのはよくやると思うんですが、Promise.all() とかして物凄い勢いで非同期実行するとこんなエラーが出がち。</description>
-    </item>
-    
-    <item>
-      <title>ポケモンUNITE モンスターPOP時間メモ</title>
-      <link>https://malanjp.github.io/posts/pokemon_unite/</link>
-      <pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/pokemon_unite/</guid>
-      <description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description>
-    </item>
-    
-    <item>
-      <title>ITP についてまとめてみた 2021年7月</title>
-      <link>https://malanjp.github.io/posts/itp_2021_07_13/</link>
-      <pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid>
-      <description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description>
-    </item>
-    
-    <item>
-      <title>First_post</title>
-      <link>https://malanjp.github.io/posts/first_post/</link>
-      <pubDate>Sat, 29 May 2021 19:23:00 +0900</pubDate>
-      
-      <guid>https://malanjp.github.io/posts/first_post/</guid>
-      <description>hoge</description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on malan</title>
+		<link>https://malanjp.github.io/posts/</link>
+		<description>Recent content in Posts on malan</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ja-jp</language>
+		<lastBuildDate>Tue, 27 Jul 2021 20:10:34 +0900</lastBuildDate>
+		<atom:link href="https://malanjp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>ポケモンUNITE モンスターPOP時間メモ</title>
+			<link>https://malanjp.github.io/posts/pokemon_unite/</link>
+			<pubDate>Tue, 27 Jul 2021 20:10:34 +0900</pubDate>
+			
+			<guid>https://malanjp.github.io/posts/pokemon_unite/</guid>
+			<description>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。 基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。 ルカリオやゲン</description>
+			<content type="html"><![CDATA[<p>ポケモンUNITEにおいて重要となるモンスターの湧き時間メモ。<br>
+基本的にはカジリガメを真っ先に、可能な限り全力で殴りに行くべき。<br>
+ルカリオやゲンガーを使っていると異常なスピードで削ることができる。<br>
+カジリガメを殴るときは総力戦になりがちなので、ビークイン戦で相手に経験値を渡さないように頑張っておく必要がある。<br>
+2回ともカジリガメを取られた場合はほぼ絶望で、サンダーを食ってワンチャン狙おうにもレベル差ができているのでだいたい失敗に終わる。</p>
+<table>
+<thead>
+<tr>
+<th>モンスター</th>
+<th>時間</th>
+<th>補足</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ヘイガニ</td>
+<td>9:00</td>
+<td>序盤の時間が余ってるときにちょろっとやっておく</td>
+</tr>
+<tr>
+<td>ビークイン回目</td>
+<td>8:50</td>
+<td>1分30秒ごとに復活</td>
+</tr>
+<tr>
+<td>カジリガメ</td>
+<td>7:00</td>
+<td>2分ごと復活</td>
+</tr>
+<tr>
+<td>ロトム</td>
+<td>7:00</td>
+<td>2分ごと復活</td>
+</tr>
+<tr>
+<td>サンダー</td>
+<td>2:00</td>
+<td>こいつが出たらカジリガメ・ロトムは出現しない</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+		</item>
+		
+		<item>
+			<title>ITP についてまとめてみた 2021年7月</title>
+			<link>https://malanjp.github.io/posts/itp_2021_07_13/</link>
+			<pubDate>Tue, 13 Jul 2021 12:32:52 +0900</pubDate>
+			
+			<guid>https://malanjp.github.io/posts/itp_2021_07_13/</guid>
+			<description>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。 ということでざっとまとめてみた。 まだ一部モヤっとしている状態で</description>
+			<content type="html"><![CDATA[<p>最近、広告周りの仕事をしているのでどうしても ITP の今後について気になってしまう。<br>
+ということでざっとまとめてみた。<br>
+まだ一部モヤっとしている状態で書きなぐっているので間違いなどあれば指摘してほしい。</p>
+<h2 id="itp-のいままで">ITP のいままで</h2>
+<ul>
+<li>ITP 1.x
+<ul>
+<li>tracker domain の 3rd Party Cookie は最長24時間で削除</li>
+</ul>
+</li>
+<li>ITP 2.0
+<ul>
+<li>tracker domain の 3rd Party Cookie は即時削除</li>
+</ul>
+</li>
+<li>ITP 2.1
+<ul>
+<li>tracker domain の 3rd Party Cookie は即時削除</li>
+<li>1st Party Cookie が7日で削除</li>
+</ul>
+</li>
+<li>ITP 2.2
+<ul>
+<li>1st Party Cookie が1日で削除</li>
+</ul>
+</li>
+<li>ITP 2.3
+<ul>
+<li>Local Storage が最長7日で削除</li>
+</ul>
+</li>
+<li>PTPT: (Preventing Tracking Prevention Tracking)
+<ul>
+<li>interaction 前のサイトでは、全ドメインの 3rd Party Cookie は即時削除</li>
+</ul>
+</li>
+<li>ITP 202003:
+<ul>
+<li>3rd Party Cookie は即時削除</li>
+</ul>
+</li>
+<li>ITP 202011:
+<ul>
+<li>CNAME Cloaking で設定された Cookie は即時削除</li>
+</ul>
+</li>
+</ul>
+<p>// 詳しくは <a href="https://note.com/martech/n/n0aabdae6ca1c">AD EBiS さんの note</a> を見てください。</p>
+<h2 id="itp-の今後">ITP の今後</h2>
+<p>（元々行儀が良かったとは言えない）CNAME Cloaking まで規制されてきたので、アドテク業界はなかなか苦戦している様子。<br>
+ITP に引きづられてか Apple の Private Relay も出てきたので IP アドレス等によるトラッキングも非現実的なものに。<br>
+元々 IP アドレスはさほど信用できるものではないが、一定の指標にはなりえた。<br>
+今後さらに締め付けが厳しくなることは容易に予想できる。<br>
+CNAME Cloaking 撲滅後は 1st Party Cookie のさらなる規制や Local Storage の規制が一層厳しくなるだろう。<br>
+1st Party Cookie の長寿命化については <code>IsLoggedIn</code> という API が提唱されており、これは主に Apple が主導していたように記憶している。<br>
+「このサービスにログインしているか？」という問い合わせをし、ログインしているようなら 1st Party Cookie の生存期間を延ばすという実装。<br>
+ただ、これはログインを必要としているサービスにおいて 1st Party Cookie がほいほいと削除されたら困るからという理由であり、トラッキングのための特別処置ではない。</p>
+<h2 id="暫定対応策">暫定対応策</h2>
+<p>現時点での対応策は、 NS の管理権限を広告主から引き継いで、A レコードにトラッキング用のドメインを入れてしまう。(既に実施している会社あり)<br>
+または、広告主の LP サーバ等でトラッキング用 1st Party Cookie を発行する。のいずれかになる。<br>
+どちらもなかなかにハードルが高そうである。<br>
+URL Param を引き回す事自体には規制が入っていないし、おそらく規制することは難しいと思われるため、無理やり param を引き回して CV したら param に含めた Tracking ID 的なものと注文情報を広告サーバに渡す。というやり方も考えられる。<br>
+が、これは Cookie などと違ってワンショットなやり方なので数日間に渡ってトラッキングできるものではない。<br>
+やりようもあるかもしれないが、現時点ではあまり考えていない。</p>
+<h2 id="他に注目すべき手法">他に注目すべき手法</h2>
+<p>Google の実装に <code>FLoC</code> があるが、これは他のブラウザから猛反発を食らっているのでこのままリリースされることはないだろう。<br>
+<code>Conversion Measurement API</code> という Chrome 実装もあるが、これもプライバシーの観点から微妙であるという指摘が散見される。<br>
+<code>Private Click Measurement</code> という Safari/WebKit の実装は個人の特定は不可能。アドネットワーク等へのへのデータ送信もダメ。プライバシーの観点でいえば悪くないと思うが、アドテク業者は個人を追跡したい。厳密にはデバイスを追跡したいと考えているので、あまり歓迎はされないかもしれない。<br>
+<code>Unified ID 2.0</code> なる、いわゆる共通IDソリューションも出てきているが、これについてはまだ仕組みがよくわかっていないため今後の課題とする。<br>
+これらの技術はまだまだ議論段階や実験的実装の段階であるため、まだまだ変更される余地がある。<br>
+それもあってあまりきちんと調べていないという甘えた言い訳をしているのだが、隙間を見つけてちゃんと調べておきたい。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>First_post</title>
+			<link>https://malanjp.github.io/posts/first_post/</link>
+			<pubDate>Sat, 29 May 2021 19:23:00 +0900</pubDate>
+			
+			<guid>https://malanjp.github.io/posts/first_post/</guid>
+			<description>hoge</description>
+			<content type="html"><![CDATA[<p>hoge</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
