@@ -52,18 +52,16 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Malan
+    subtitle: "I'm Software Engineer at Tokyo/Japan."
+    imageUrl: "/apple-touch-icon.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: malan
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: Blog
+        url: https://malan.hatenablog.com/
 
   # home-info mode
   homeInfoParams:
@@ -104,6 +102,7 @@ params:
       - RSS
       - JSON # is necessary
 
+
   # # for search
   # # https://fusejs.io/api/options.html
   # fuseOpts:
@@ -119,18 +118,17 @@ params:
   # # url: "/archive"
   # # description: "Description for Search"
   # summary: "search"
-
-menu:
-  main:
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 1
-    # - identifier: search
-    #   name: Search
-    #   url: /search/
-    #   weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
+# menu:
+#   main:
+#     - identifier: archives
+#       name: Archives
+#       url: /archives/
+#       weight: 1
+#     # - identifier: search
+#     #   name: Search
+#     #   url: /search/
+#     #   weight: 10
+#     - identifier: tags
+#       name: Tags
+#       url: /tags/
+#       weight: 20
