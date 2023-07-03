@@ -77,6 +77,8 @@ params:
       url: "https://twitch.tv/malanjp"
     - name: youtube
       url: "https://www.youtube.com/@malanjp"
+    - name: instagram
+      url: "https://www.instagram.com/malanjp"
 
   analytics:
     google:
