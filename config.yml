@@ -81,6 +81,8 @@ params:
       url: "https://www.instagram.com/malanjp"
     - name: keybase
       url: "https://keybase.io/malanjp"
+    - name: discord
+      url: "https://discord.com/users/272400378207666187"
 
   analytics:
     google:
