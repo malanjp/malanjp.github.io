@@ -79,6 +79,8 @@ params:
       url: "https://www.youtube.com/@malanjp"
     - name: instagram
       url: "https://www.instagram.com/malanjp"
+    - name: keybase
+      url: "https://keybase.io/malanjp"
 
   analytics:
     google:
